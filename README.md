@@ -21,7 +21,7 @@ This project analyzes Netflix's content library using a dataset from Kaggle. The
 ## How to Run the Code
 1. Clone this repository
 2. Ensure you have the required libraries installed: `pip install pandas numpy matplotlib seaborn jupyter`
-3. Download the Netflix dataset from Kaggle and place it in the project directory
+3. Download the Netflix dataset files above or download it from Kaggle and place it in the project directory
 4. Open the Jupyter notebook: `jupyter notebook netflix_analysis.ipynb`
 5. Run all cells to see the analysis
 
